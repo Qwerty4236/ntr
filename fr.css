@@ -1,0 +1,17 @@
+@font-face { font-family: Digital-7; src: url('fonts/digital-7.ttf'); } 
+
+
+html{
+    background-color: red;
+    
+}
+#pl{
+color: white;
+font-size: 40px;
+font-family: sans-serif;
+text-align: center;
+vertical-align: middle;
+margin-top: 20%;
+font-family: 'digital-7';
+font-size: 7rem;
+}
